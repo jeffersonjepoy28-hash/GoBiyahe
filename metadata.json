@@ -1,0 +1,8 @@
+{
+  "name": "GoBiyahe - Food Delivery & Rides",
+  "description": "On-demand food delivery, restaurant menus, groceries, and motorcycle & car rides in one super-app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
